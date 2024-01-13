@@ -468,6 +468,7 @@ header {
   background-color: #ffffff32;
   border-radius: 10px;
   box-shadow: 2px 2px 0px 1px rgba(255, 255, 255, 0.249) ;
+  transition: 0.3s;
 }
 
 .nav>#nav-check {
